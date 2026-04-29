@@ -34,9 +34,9 @@ Focus was placed near the spicule tip.
 
 ## Representative image
 
-images/Prashant_ISM_Submission.png
+![ISM figure](../images/Prashant_ISM_Submission.png)
 
-*Live imaging near the spicule growth region.*
+This image shows the region of interest near the spicule growth zone used for live imaging analysis.
 
 ---
 
