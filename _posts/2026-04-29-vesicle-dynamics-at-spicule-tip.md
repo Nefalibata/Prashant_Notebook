@@ -34,7 +34,7 @@ Focus was placed near the spicule tip.
 
 ## Representative image
 
-![Spicule tip imaging](/Prashant_Notebook/assets/images/spicule-tip-1.jpg)
+images/Prashant_ISM_Submission.png
 
 *Live imaging near the spicule growth region.*
 
