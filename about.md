@@ -3,13 +3,16 @@ layout: page
 title: CV
 permalink: /cv/
 ---
+<div style="text-align: center;">
 
 # PRASHANT TEWARI
 
 Mobile: +972-555046751  
 Email: prashanttewari7@gmail.com  
-University of Haifa, Israel  
+University of Haifa, Israel
 
+</div>
+  
 ---
 
 ## EDUCATION
