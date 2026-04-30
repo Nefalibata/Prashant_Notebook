@@ -1,127 +1,163 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: CV
+permalink: /cv/
 ---
 
-# Prashant Tewari
+# PRASHANT TEWARI
 
-PhD Researcher in Developmental Biology  
+Mobile: +972-555046751  
+Email: prashanttewari7@gmail.com  
 University of Haifa, Israel  
 
-📧 prashanttewari7@gmail.com  
+---
+
+## EDUCATION
+
+Leon H. Charney School of Marine Sciences, University of Haifa, Haifa, Israel. 2023–Pursuing  
+PhD in Marine Biology  
+
+Leon H. Charney School of Marine Sciences, University of Haifa, Haifa, Israel. 2021–2023  
+Masters in Marine Biology, Dean of Graduate Studies Honors  
+Percentage: 94  
+
+Sam Higginbottom University of Agriculture, Technology & Sciences, Prayagraj, India 2016–2020  
+Bachelor of Science (Honours) Biotechnology  
+C.G.P.A - 7.78  
 
 ---
 
-## Research Focus
+## RESEARCH INTEREST
 
-I study the cellular and molecular mechanisms underlying **skeletogenesis in sea urchin embryos**, with a focus on:
-
-- Biomineralization  
-- Vesicle trafficking  
-- Actomyosin regulation  
-- Cytoskeletal dynamics  
-
-My work combines **live-cell imaging, quantitative analysis, and perturbation experiments** to understand how cells coordinate mineral deposition during development. :contentReference[oaicite:1]{index=1}  
+Development Biology, Biomineralization, Genetics, Cell and Molecular Biology  
 
 ---
 
-## Education
+## RESEARCH EXPERIENCE
 
-**PhD in Marine Biology (2023–Present)**  
-University of Haifa, Israel  
+Regulation of Evolution and Development laboratory, University of Haifa Israel. 2023 – Pursuing  
+PhD student  
+Supervisor: Prof. Smadar Ben Tabou de Leon  
 
-**MSc in Marine Biology (2021–2023)**  
-University of Haifa  
-Dean’s Honors (94%)  
+Thesis: Deciphering the role of cytoskeleton remodelling and vesicular transport in sea urchin larval biomineralization.  
 
-**BSc Biotechnology (2016–2020)**  
-SHUATS, Prayagraj, India  
-CGPA: 7.78  
+- My PhD research focuses on understanding the cellular and molecular mechanisms underlying skeletogenesis in sea urchin embryos, with particular emphasis on actomyosin regulation, vesicle trafficking, and biomineralization dynamics.  
+- I use live-cell imaging, quantitative image analysis, and pharmacological perturbations, to elucidate how cytoskeletal and signalling networks coordinate mineral deposition during embryonic development.  
 
 ---
 
-## Research Experience
+Regulation of Evolution and Development laboratory, University of Haifa Israel. 2021–2023  
+Masters Student  
+Supervisor: Prof. Smadar Ben Tabou de Leon  
 
-### PhD Research  
-Regulation of Evolution and Development Lab, University of Haifa  
+Thesis: p21 Activated Kinases Expression, Regulation, and their Roles in Sea Urchin Development and Skeletogenesis  
 
-- Investigating vesicle transport and cytoskeleton remodeling in biomineralization  
-- Using live imaging and quantitative microscopy  
-- Studying actomyosin-driven processes in embryonic development  
-
----
-
-### MSc Research  
-
-- Studied p21-activated kinases (PAKs) in sea urchin development  
-- Investigated regulation of biomineral growth and morphology  
+- I worked on characterising the role of p21-activated kinase (Paks) genes in sea urchin development and biomineralization.  
+- My project aimed to understand how actomyosin remodelling proteins such as Cdc42 and PAKs regulate biomineral growth and morphology.  
 
 ---
 
-## Publications
+Teaching Assistant, Department of Marine Biology, University of Haifa Israel. 2022–Pursuing  
 
-- Tewari, P. et al. (2025) — Sea urchin skeletogenesis study  
-- Tewari, P. (2020) — Cryopreservation of Fragaria  
-
----
-
-## Techniques
-
-### Microscopy
-- Spinning disk confocal  
-- Live embryo imaging  
-- Fluorescence imaging  
-
-### Molecular Biology
-- PCR, qPCR, RT-PCR  
-- Gene cloning  
-- Microinjections  
-
-### Image Analysis
-- ImageJ  
-- IMARIS  
+- Teaching ‘Research Methods in Marine Biology A and B’  
+- Helping students design and conduct independent research projects  
 
 ---
 
-## Teaching
+ICAR-National Bureau of Plant Genetic Resources, New Delhi. Jan – Sept 2020  
+Bachelor’s Thesis Project  
 
-Teaching Assistant  
-Research Methods in Marine Biology (A & B)  
+Supervisor: Dr. Sandhya Gupta  
 
-- Mentoring students in designing and conducting research projects  
+Thesis: Cryopreservation and assessment of genetic stability of Fragaria spp. using SSR markers  
+
+- Executed interdisciplinary work in cryopreservation and molecular biology protocols  
 
 ---
 
-## Awards
+## INTERNSHIPS
 
-- Best Poster Award — University of Haifa  
-- Travel Grant — Woods Hole Conference  
+Temperate Breeding and Research Station, ACSEN HYVEG Pvt Ltd, Kullu, India  
+Summer Intern June – July 2018  
+
+- Studied micropropagation and plant tissue culture  
+
+Mrd Life Sciences, Lucknow, India  
+Summer Intern June 2017  
+
+- Hands-on enzymology training  
+
+---
+
+## PUBLICATIONS
+
+- Chen, S., Gildor, T., Tewari, P., & Ben-Tabou de-Leon, S. (2025)  
+- Gupta, S. and Tewari, P. (2020)  
+
+---
+
+## LABORATORY SKILLS
+
+**Molecular Biology:** PCR, qPCR, RT-PCR, cloning, microinjections  
+**Microscopy:** Confocal, spinning disk, live imaging  
+**Biochemistry:** Immunostaining, in-situ hybridisation  
+**Microbiology:** Culture, isolation, media preparation  
+**Cryopreservation:** Vitrification, encapsulation  
+
+---
+
+## PRESENTATIONS
+
+- Woods Hole Marine Biology Laboratory (Oral)  
+- Indian Society of Developmental Biology Meeting (Poster)  
+- Israeli Society of Microscopy (Poster & Flash Talk)  
+- Multiple University of Haifa conferences  
+
+---
+
+## AWARDS
+
+- Best Poster Award, University of Haifa  
+- Travel Grant (Woods Hole Conference)  
 - Marom PhD Scholarship  
 - Excellence Scholarship  
 
 ---
 
-## Scientific Presentations
+## LEADERSHIP
 
-- Oral presentation — Woods Hole Marine Biology Laboratory  
-- Multiple poster presentations across international conferences  
-
----
-
-## Leadership
-
-- President — Biotechnology Society (250+ members)  
-- Core Committee — Marine Science Conference (400+ participants)  
-- Graduate Team — University of Haifa  
+- President, Biotechnology Society (250+ members)  
+- Core Committee, Marine Science Conference (400+ participants)  
+- Graduate Team Member, University of Haifa  
 
 ---
 
-## Professional Memberships
+## SKILLS
+
+Technical: MS Office, ImageJ, IMARIS, Photoshop  
+Languages: English (Fluent), German (Basic), French (Basic)  
+Interests: Reading, swimming, oration, painting  
+
+---
+
+## PROFESSIONAL ASSOCIATIONS
 
 - Indian Society of Developmental Biology  
-- Israeli Society of Microscopy  
 - European Society of Microscopy  
+- Israeli Society of Microscopy  
+
+---
+
+## REFERENCES
+
+Prof. Smadar Ben Tabou de Leon  
+University of Haifa  
+
+Dr. Tal Luzzatto Knaan  
+University of Haifa  
+
+Dr. Sandhya Gupta  
+ICAR, New Delhi  
 
 ---
 
