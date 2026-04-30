@@ -1,166 +1,130 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: About
+permalink: /about/
 ---
 
-# PRASHANT TEWARI
+# Prashant Tewari
 
-Mobile: +972-555046751  
-Email: prashanttewari7@gmail.com  
+PhD Researcher in Developmental Biology  
 University of Haifa, Israel  
 
----
-
-## EDUCATION
-
-Leon H. Charney School of Marine Sciences, University of Haifa, Haifa, Israel. 2023–Pursuing  
-PhD in Marine Biology  
-
-Leon H. Charney School of Marine Sciences, University of Haifa, Haifa, Israel. 2021–2023  
-Masters in Marine Biology, Dean of Graduate Studies Honors  
-Percentage: 94  
-
-Sam Higginbottom University of Agriculture, Technology & Sciences, Prayagraj, India 2016–2020  
-Bachelor of Science (Honours) Biotechnology  
-C.G.P.A - 7.78  
+📧 prashanttewari7@gmail.com  
 
 ---
 
-## RESEARCH INTEREST
+## Research Focus
 
-Development Biology, Biomineralization, Genetics, Cell and Molecular Biology  
+I study the cellular and molecular mechanisms underlying **skeletogenesis in sea urchin embryos**, with a focus on:
 
----
+- Biomineralization  
+- Vesicle trafficking  
+- Actomyosin regulation  
+- Cytoskeletal dynamics  
 
-## RESEARCH EXPERIENCE
-
-Regulation of Evolution and Development laboratory, University of Haifa Israel. 2023 – Pursuing  
-PhD student  
-Supervisor: Prof. Smadar Ben Tabou de Leon  
-
-Thesis: Deciphering the role of cytoskeleton remodelling and vesicular transport in sea urchin larval biomineralization.  
-
-- My PhD research focuses on understanding the cellular and molecular mechanisms underlying skeletogenesis in sea urchin embryos, with particular emphasis on actomyosin regulation, vesicle trafficking, and biomineralization dynamics.  
-- I use live-cell imaging, quantitative image analysis, and pharmacological perturbations, to elucidate how cytoskeletal and signalling networks coordinate mineral deposition during embryonic development.  
+My work combines **live-cell imaging, quantitative analysis, and perturbation experiments** to understand how cells coordinate mineral deposition during development. :contentReference[oaicite:1]{index=1}  
 
 ---
 
-Regulation of Evolution and Development laboratory, University of Haifa Israel. 2021–2023  
-Masters Student  
-Supervisor: Prof. Smadar Ben Tabou de Leon  
+## Education
 
-Thesis: p21 Activated Kinases Expression, Regulation, and their Roles in Sea Urchin Development and Skeletogenesis  
+**PhD in Marine Biology (2023–Present)**  
+University of Haifa, Israel  
 
-- I worked on characterising the role of p21-activated kinase (Paks) genes in sea urchin development and biomineralization.  
-- My project aimed to understand how actomyosin remodelling proteins such as Cdc42 and PAKs regulate biomineral growth and morphology.  
+**MSc in Marine Biology (2021–2023)**  
+University of Haifa  
+Dean’s Honors (94%)  
 
----
-
-Teaching Assistant, Department of Marine Biology, University of Haifa Israel. 2022–Pursuing  
-
-- Teaching ‘Research Methods in Marine Biology A and B’  
-- Helping students design and conduct independent research projects  
+**BSc Biotechnology (2016–2020)**  
+SHUATS, Prayagraj, India  
+CGPA: 7.78  
 
 ---
 
-ICAR-National Bureau of Plant Genetic Resources, New Delhi. Jan – Sept 2020  
-Bachelor’s Thesis Project  
+## Research Experience
 
-Supervisor: Dr. Sandhya Gupta  
+### PhD Research  
+Regulation of Evolution and Development Lab, University of Haifa  
 
-Thesis: Cryopreservation and assessment of genetic stability of Fragaria spp. using SSR markers  
-
-- Executed interdisciplinary work in cryopreservation and molecular biology protocols  
-
----
-
-## INTERNSHIPS
-
-Temperate Breeding and Research Station, ACSEN HYVEG Pvt Ltd, Kullu, India  
-Summer Intern June – July 2018  
-
-- Studied micropropagation and plant tissue culture  
-
-Mrd Life Sciences, Lucknow, India  
-Summer Intern June 2017  
-
-- Hands-on enzymology training  
+- Investigating vesicle transport and cytoskeleton remodeling in biomineralization  
+- Using live imaging and quantitative microscopy  
+- Studying actomyosin-driven processes in embryonic development  
 
 ---
 
-## PUBLICATIONS
+### MSc Research  
 
-- Chen, S., Gildor, T., Tewari, P., & Ben-Tabou de-Leon, S. (2025)  
-- Gupta, S. and Tewari, P. (2020)  
-
----
-
-## LABORATORY SKILLS
-
-**Molecular Biology:** PCR, qPCR, RT-PCR, cloning, microinjections  
-**Microscopy:** Confocal, spinning disk, live imaging  
-**Biochemistry:** Immunostaining, in-situ hybridisation  
-**Microbiology:** Culture, isolation, media preparation  
-**Cryopreservation:** Vitrification, encapsulation  
+- Studied p21-activated kinases (PAKs) in sea urchin development  
+- Investigated regulation of biomineral growth and morphology  
 
 ---
 
-## PRESENTATIONS
+## Publications
 
-- Woods Hole Marine Biology Laboratory (Oral)  
-- Indian Society of Developmental Biology Meeting (Poster)  
-- Israeli Society of Microscopy (Poster & Flash Talk)  
-- Multiple University of Haifa conferences  
+- Tewari, P. et al. (2025) — Sea urchin skeletogenesis study  
+- Tewari, P. (2020) — Cryopreservation of Fragaria  
 
 ---
 
-## AWARDS
+## Techniques
 
-- Best Poster Award, University of Haifa  
-- Travel Grant (Woods Hole Conference)  
+### Microscopy
+- Spinning disk confocal  
+- Live embryo imaging  
+- Fluorescence imaging  
+
+### Molecular Biology
+- PCR, qPCR, RT-PCR  
+- Gene cloning  
+- Microinjections  
+
+### Image Analysis
+- ImageJ  
+- IMARIS  
+
+---
+
+## Teaching
+
+Teaching Assistant  
+Research Methods in Marine Biology (A & B)  
+
+- Mentoring students in designing and conducting research projects  
+
+---
+
+## Awards
+
+- Best Poster Award — University of Haifa  
+- Travel Grant — Woods Hole Conference  
 - Marom PhD Scholarship  
 - Excellence Scholarship  
 
 ---
 
-## LEADERSHIP
+## Scientific Presentations
 
-- President, Biotechnology Society (250+ members)  
-- Core Committee, Marine Science Conference (400+ participants)  
-- Graduate Team Member, University of Haifa  
-
----
-
-## SKILLS
-
-Technical: MS Office, ImageJ, IMARIS, Photoshop  
-Languages: English (Fluent), German (Basic), French (Basic)  
-Interests: Reading, swimming, oration, painting  
+- Oral presentation — Woods Hole Marine Biology Laboratory  
+- Multiple poster presentations across international conferences  
 
 ---
 
-## PROFESSIONAL ASSOCIATIONS
+## Leadership
+
+- President — Biotechnology Society (250+ members)  
+- Core Committee — Marine Science Conference (400+ participants)  
+- Graduate Team — University of Haifa  
+
+---
+
+## Professional Memberships
 
 - Indian Society of Developmental Biology  
-- European Society of Microscopy  
 - Israeli Society of Microscopy  
-
----
-
-## REFERENCES
-
-Prof. Smadar Ben Tabou de Leon  
-University of Haifa  
-
-Dr. Tal Luzzatto Knaan  
-University of Haifa  
-
-Dr. Sandhya Gupta  
-ICAR, New Delhi    
+- European Society of Microscopy  
 
 ---
 
 ## CV
 
-📄 [Download full CV](CV_Prashant_Tewari_2026.pdf)
+📄 [Download full CV](../CV_Prashant_Tewari_2026.pdf)
