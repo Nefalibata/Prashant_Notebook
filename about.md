@@ -5,11 +5,13 @@ permalink: /cv/
 ---
 <div style="text-align: center;">
 
-# PRASHANT TEWARI
+<h1>PRASHANT TEWARI</h1>
 
-Mobile: +972-555046751  
-Email: prashanttewari7@gmail.com  
+<p>
+Mobile: +972-555046751<br>
+Email: prashanttewari7@gmail.com<br>
 University of Haifa, Israel
+</p>
 
 </div>
   
