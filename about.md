@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-#### PRASHANT TEWARI
+ PRASHANT TEWARI
 
 Mobile: +972-555046751  
 Email: prashanttewari7@gmail.com  
