@@ -127,4 +127,4 @@ Research Methods in Marine Biology (A & B)
 
 ## CV
 
-📄 [Download full CV](../CV_Prashant_Tewari_2026.pdf)
+📄 [Download full CV](CV_Prashant_Tewari_2026.pdf)
