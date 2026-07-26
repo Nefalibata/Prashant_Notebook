@@ -6,125 +6,108 @@ permalink: /cv/
 
 # Prashant Tewari
 
-PhD Researcher in Developmental Biology  
+**Doctoral Researcher in Marine Biology**  
+*Developmental Biology and Biomineralization*  
 University of Haifa, Israel  
 
-📧 prashanttewari7@gmail.com  
+Email: [prashanttewari7@gmail.com](mailto:prashanttewari7@gmail.com)
 
 ---
 
-## Research Focus
+## Research Profile
 
-I study the cellular and molecular mechanisms underlying **skeletogenesis in sea urchin embryos**, with a focus on:
-
-- Biomineralization  
-- Vesicle trafficking  
-- Actomyosin regulation  
-- Cytoskeletal dynamics  
-
-My work combines **live-cell imaging, quantitative analysis, and perturbation experiments** to understand how cells coordinate mineral deposition during development. :contentReference[oaicite:1]{index=1}  
+I investigate the cellular and molecular mechanisms underlying skeletogenesis in sea urchin embryos. My research focuses on biomineralization, vesicle trafficking, actomyosin regulation, and cytoskeletal dynamics. I combine live-cell imaging, quantitative image analysis, and experimental perturbations to understand how cells coordinate mineral deposition during embryonic development.
 
 ---
 
 ## Education
 
-**PhD in Marine Biology (2023–Present)**  
-University of Haifa, Israel  
+**PhD in Marine Biology** | University of Haifa, Israel  
+2023–Present
 
-**MSc in Marine Biology (2021–2023)**  
-University of Haifa  
-Dean’s Honors (94%)  
+**MSc in Marine Biology** | University of Haifa, Israel  
+2021–2023  
+Dean’s Honors; final grade: 94%
 
-**BSc Biotechnology (2016–2020)**  
-SHUATS, Prayagraj, India  
-CGPA: 7.78  
+**BSc in Biotechnology** | SHUATS, Prayagraj, India  
+2016–2020  
+CGPA: 7.78
 
 ---
 
 ## Research Experience
 
-### PhD Research  
-Regulation of Evolution and Development Lab, University of Haifa  
+### Doctoral Researcher  
+**Regulation of Evolution and Development Laboratory, University of Haifa**
 
-- Investigating vesicle transport and cytoskeleton remodeling in biomineralization  
-- Using live imaging and quantitative microscopy  
-- Studying actomyosin-driven processes in embryonic development  
+- Investigate vesicle transport and cytoskeletal remodeling during biomineralization.
+- Apply live-cell imaging and quantitative microscopy to analyze embryonic development.
+- Study actomyosin-driven cellular processes involved in sea urchin skeletogenesis.
 
----
+### MSc Researcher  
+**University of Haifa**
 
-### MSc Research  
-
-- Studied p21-activated kinases (PAKs) in sea urchin development  
-- Investigated regulation of biomineral growth and morphology  
+- Studied the roles of p21-activated kinases (PAKs) in sea urchin development.
+- Investigated the regulation of biomineral growth and morphology.
 
 ---
 
 ## Publications
 
-- Tewari, P. et al. (2025) — Sea urchin skeletogenesis study  
-- Tewari, P. (2020) — Cryopreservation of Fragaria  
+- Tewari, P. et al. (2025). Sea urchin skeletogenesis study.
+- Tewari, P. (2020). Cryopreservation of *Fragaria*.
 
 ---
 
-## Techniques
+## Technical Skills
 
-### Microscopy
-- Spinning disk confocal  
-- Live embryo imaging  
-- Fluorescence imaging  
-
-### Molecular Biology
-- PCR, qPCR, RT-PCR  
-- Gene cloning  
-- Microinjections  
-
-### Image Analysis
-- ImageJ  
-- IMARIS  
+**Microscopy:** Spinning-disk confocal microscopy, live-embryo imaging, fluorescence microscopy  
+**Molecular biology:** PCR, qPCR, RT-PCR, gene cloning, microinjection  
+**Image analysis:** ImageJ, IMARIS
 
 ---
 
-## Teaching
+## Teaching Experience
 
-Teaching Assistant  
-Research Methods in Marine Biology (A & B)  
+### Teaching Assistant  
+**Research Methods in Marine Biology A & B**
 
-- Mentoring students in designing and conducting research projects  
+- Mentor students in the design and execution of research projects.
 
 ---
 
-## Awards
+## Awards and Scholarships
 
-- Best Poster Award — University of Haifa  
-- Travel Grant — Woods Hole Conference  
-- Marom PhD Scholarship  
-- Excellence Scholarship  
+- Best Poster Award, University of Haifa
+- Travel Grant, Woods Hole Conference
+- Marom PhD Scholarship
+- Excellence Scholarship
 
 ---
 
 ## Scientific Presentations
 
-- Oral presentation — Woods Hole Marine Biology Laboratory  
-- Multiple poster presentations across international conferences  
+- Oral presentation, Marine Biological Laboratory, Woods Hole
+- Poster presentations at international scientific conferences
 
 ---
 
 ## Leadership
 
-- President — Biotechnology Society (250+ members)  
-- Core Committee — Marine Science Conference (400+ participants)  
-- Graduate Team — University of Haifa  
+- President, Biotechnology Society — represented more than 250 members
+- Core Committee Member, Marine Science Conference — supported an event with more than 400 participants
+- Member, University of Haifa Graduate Team
 
 ---
 
 ## Professional Memberships
 
-- Indian Society of Developmental Biology  
-- Israeli Society of Microscopy  
-- European Society of Microscopy  
+- Indian Society of Developmental Biology
+- Israeli Society for Microscopy
+- European Microscopy Society
 
 ---
 
-## CV
+## Full CV
 
-📄 [Download full CV](../CV_Prashant_Tewari_2026.pdf)
+[Download the full CV](../CV_Prashant_Tewari_2026.pdf)
